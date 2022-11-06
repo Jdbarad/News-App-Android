@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="facebook_app_id">699240151748129</string>
+    <string name="fb_login_protocol_scheme">fb699240151748129</string>
+    <string name="facebook_client_token">9f91b9d332d1d120d6fad5778dfc1ae8</string>
+
+
+</resources>
